@@ -1,8 +1,8 @@
-# sing-box-geosite
+# sing-box-Rule-generation
 
-在links.txt添加规则集，自动生成 sing-box Source Format。fork后自己添加想要转换的规则集，请生成token填写到仓库设置里让GitHub Actions有权限修改你的仓库
+Add a rule set to links.txt to automatically generate sing-box Source Format. Generate a token and fill it in the warehouse settings to give GitHub Actions permission to modify the warehouse.
 
-# 致谢（排名不分先后）
+# Acknowledgments (in no particular order)
 
 [@izumiChan16](https://github.com/izumiChan16)
 
