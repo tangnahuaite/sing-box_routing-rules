@@ -1,7 +1,12 @@
 # sing-box-Rule-generation
 
 Add a rule set to links.txt to automatically generate sing-box Source Format. Generate a token and fill it in the warehouse settings to give GitHub Actions permission to modify the warehouse.
+If you want to use the srs binary file, please install the sing-box1.8.0⁺ version on your server. For details, please refer to the sing-box [official document](https://sing-box.sagernet.org/zh/configuration/ rule-set/source-format/#structure). Conversion example:
+````txt
+# Compile
+Use sing-box rule-set compile [--output <file-name>.srs] <file-name>.json to compile source to binary rule-set.
 
+````
 # Acknowledgments (in no particular order)
 [@Toperlock](https://github.com/Toperlock)
 
