@@ -3,7 +3,28 @@
   "rules": [
     {
       "domain": [
-        "api.swiftgram.app"
+        "mbrx.app",
+        "tx.me",
+        "t.me",
+        "graph.org",
+        "telegra.ph",
+        "telega.one",
+        "quiz.directory",
+        "comments.app",
+        "legra.ph",
+        "usercontent.dev",
+        "telegram.me",
+        "telegram.space",
+        "contest.com",
+        "telegram.org",
+        "telesco.pe",
+        "telegramdownload.com",
+        "tg.dev",
+        "telegram-cdn.org",
+        "telegram.dog",
+        "tdesktop.com",
+        "api.swiftgram.app",
+        "stel.com"
       ]
     },
     {
@@ -13,27 +34,27 @@
     },
     {
       "domain_suffix": [
-        "comments.app",
-        "contest.com",
-        "graph.org",
-        "legra.ph",
-        "mbrx.app",
-        "quiz.directory",
-        "stel.com",
-        "t.me",
-        "tdesktop.com",
-        "telega.one",
-        "telegra.ph",
-        "telegram-cdn.org",
-        "telegram.dog",
-        "telegram.me",
-        "telegram.org",
-        "telegram.space",
-        "telegramdownload.com",
-        "telesco.pe",
-        "tg.dev",
-        "tx.me",
-        "usercontent.dev"
+        ".comments.app",
+        ".contest.com",
+        ".graph.org",
+        ".legra.ph",
+        ".mbrx.app",
+        ".quiz.directory",
+        ".stel.com",
+        ".t.me",
+        ".tdesktop.com",
+        ".telega.one",
+        ".telegra.ph",
+        ".telegram-cdn.org",
+        ".telegram.dog",
+        ".telegram.me",
+        ".telegram.org",
+        ".telegram.space",
+        ".telegramdownload.com",
+        ".telesco.pe",
+        ".tg.dev",
+        ".tx.me",
+        ".usercontent.dev"
       ]
     },
     {
