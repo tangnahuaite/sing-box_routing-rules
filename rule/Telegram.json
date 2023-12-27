@@ -3,28 +3,28 @@
   "rules": [
     {
       "domain": [
-        "telegram-cdn.org",
-        "usercontent.dev",
         "telegram.dog",
-        "stel.com",
-        "tx.me",
+        "telegram-cdn.org",
+        "api.swiftgram.app",
         "telegram.org",
+        "graph.org",
+        "stel.com",
         "telesco.pe",
-        "t.me",
-        "telegram.space",
         "tg.dev",
         "contest.com",
-        "graph.org",
         "legra.ph",
-        "comments.app",
-        "telegram.me",
-        "tdesktop.com",
-        "telega.one",
-        "api.swiftgram.app",
-        "mbrx.app",
+        "telegra.ph",
+        "usercontent.dev",
         "quiz.directory",
         "telegramdownload.com",
-        "telegra.ph"
+        "telegram.space",
+        "telegram.me",
+        "telega.one",
+        "t.me",
+        "tx.me",
+        "tdesktop.com",
+        "comments.app",
+        "mbrx.app"
       ]
     },
     {
