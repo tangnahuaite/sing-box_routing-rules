@@ -8,12 +8,14 @@ sing-box rule-set compile [--output <file-name>.srs] <file-name>.json
 ````
 # sing-box-1.8.0⁺ Configuration file example
 [sing-box-1.8.0⁺ Configuration file example](https://github.com/tangnahuaite/sing-bpx_routing-rules/blob/main/example.json).
-# Acknowledgments (in no particular order)
+# Special Thanks To
 [@Toperlock](https://github.com/Toperlock)
 
 [@izumiChan16](https://github.com/izumiChan16)
 
 [@NobyDa](https://github.com/NobyDa)
+
+[@Privacy protection tools](https://github.com/privacy-protection-tools/anti-AD)
 
 [@blackmatrix7](https://github.com/blackmatrix7)
 
