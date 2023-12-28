@@ -6,8 +6,8 @@ If you want to use the srs binary file, please install the sing-box1.8.0⁺ vers
 ````txt
 sing-box rule-set compile [--output <file-name>.srs] <file-name>.json
 ````
-# sing-box1.8.0⁺ Configuration file example
-[sing-box1.8.0⁺ Configuration file example](https://github.com/tangnahuaite/sing-bpx_routing-rules/blob/main/example.json).
+# sing-box-1.8.0⁺ Configuration file example
+[sing-box-1.8.0⁺ Configuration file example](https://github.com/tangnahuaite/sing-bpx_routing-rules/blob/main/example.json).
 # Acknowledgments (in no particular order)
 [@Toperlock](https://github.com/Toperlock)
 
